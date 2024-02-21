@@ -1,9 +1,7 @@
 # Neural-Networks
 
-Bilkent University 3rd Semester Digital Design Course Term Project
+Bilkent University 6th Semester Neural Networks Course Final Projects.
 
-This project is created by Yusuf Taha Sarı for Digital Desing Course Term Project. The Maze Solver robot is coded with VHDL language to Basys 3 FPGA board.
+These projects are created by Yusuf Taha Sarı for Neural Networks Course. Projets is coded with Python language.
 
-Youtbe Explanation Video Link: https://youtu.be/WEcnTylsJEs
-
-motor control.vdh is the main module that calls others. You can ask questions to me via ysfthsr71@gmail.com email address.
+There are 3 mini-projects created individually and 1 final project created with a group of engineering students. You can ask questions to me via the ysfthsr71@gmail.com email address.
